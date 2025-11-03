@@ -1,0 +1,11 @@
+# General Automation
+pyautogui
+Pillow
+
+# Window Management (The core feature)
+pygetwindow
+pywin32 
+# Note: 'pywin32' provides the 'win32gui' functionality used in the script.
+
+# Configuration/Profiles
+configparser
